@@ -1,7 +1,7 @@
 /* @import '@fontsource/fira-mono'; */
 @font-face {
 	font-family: Fira Mono;
-	src: url(../../static/fonts/FiraMono-Regular.ttf);
+	src: url(/fonts/FiraMono-Regular.ttf);
 	font-weight: normal;
 }
 :root {
